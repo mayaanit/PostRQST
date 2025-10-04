@@ -30,9 +30,11 @@ git clone https://github.com/mayaanit/PostRQST.git
 cd facebook-page-poster
 pip install -r requirements.txt
 ```
+Rename the .envfile to .env and provide your PAGE_ID and USER_TOKEN inside it.
+
 
 ---
-## 🧠 UsageUsage
+## 🧠 Usage
 
 ```bash
 python main.py <mode> <value> [--caption <text>] [--captionfile <file>]
