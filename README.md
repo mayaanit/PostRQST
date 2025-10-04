@@ -15,7 +15,7 @@ A Python tool for posting text, photos, and videos to a Facebook Page using the 
 ## ⚙️ Requirements
 
 - **Python 3.7+**
-- Facebook **Page Access Token** with the following permissions:
+- Facebook **User Token** with the following permissions:
   - `pages_manage_posts`
   - `pages_read_engagement`
   - `pages_show_list`
